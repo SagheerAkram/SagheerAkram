@@ -54,14 +54,18 @@ Aesthetic photo projects and edits.
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 Trophies
 <div align="center">
-  <img width="420" src="https://streak-stats.demolab.com?user=SagheerAkram&theme=tokyonight&hide_border=true" />
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=SagheerAkram&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SagheerAkram&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
 </div>
 
+---
+
+## 🐍 Contribution Snake
 <div align="center">
-  <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagheerAkram&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://raw.githubusercontent.com/SagheerAkram/SagheerAkram/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
@@ -74,10 +78,7 @@ Aesthetic photo projects and edits.
 
 ---
 
-
----
-
-## 👾 Cyber Pet
+## 🌟 Thanks for Visiting
 <!-- CYBER_PET_START -->
 ### 👾 Cyber Pet
 ```text
