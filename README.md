@@ -110,7 +110,7 @@ Help me train for the Grandmaster title! Make a move against my AI bot.
 
 <img src="https://raw.githubusercontent.com/SagheerAkram/SagheerAkram/main/chess_board.svg" width="400" />
 
-### [👉 Make a Move!](https://github.com/SagheerAkram/SagheerAkram/issues/new?template=chess_move.yml)
+### [👉 Make a Move!](https://SagheerAkram.github.io/SagheerAkram/chess/)
 
 </div>
 
