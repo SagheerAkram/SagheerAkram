@@ -1,0 +1,13 @@
+name: Chess Move
+description: Make a move in the community chess game!
+title: "Chess Move: "
+labels: ["chess"]
+body:
+  - type: input
+    id: move
+    attributes:
+      label: Your Move
+      description: Enter your move in UCI format (e.g., e2e4, a7a8q).
+      placeholder: e2e4
+    validations:
+      required: true

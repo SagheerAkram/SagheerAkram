@@ -94,6 +94,24 @@ Aesthetic photo projects and edits.
 **XP**: 0 / 1000
 <!-- CYBER_PET_END -->
 
-## 🌟 Thanks for Visiting
+
+---
+
+## ♟️ Grandmaster's Training (Community Chess)
+Help me train for the Grandmaster title! Make a move against my AI bot.
+
+<div align="center">
+
+<!-- CHESS_STATS_START -->
+**Community Wins**: 0 🏆 | **Bot Wins**: 0 🤖 | **Draws**: 0 🤝
+*Last Move*: Game Start
+<!-- CHESS_STATS_END -->
+
+<img src="https://raw.githubusercontent.com/SagheerAkram/SagheerAkram/main/chess_board.svg" width="400" />
+
+### [👉 Make a Move!](https://github.com/SagheerAkram/SagheerAkram/issues/new?template=chess_move.yml)
+
+</div>
+
 
 More updates coming soon!

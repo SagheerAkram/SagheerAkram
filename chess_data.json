@@ -1,0 +1,9 @@
+{
+  "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+  "last_move": "Game Start",
+  "stats": {
+    "community_wins": 0,
+    "bot_wins": 0,
+    "draws": 0
+  }
+}

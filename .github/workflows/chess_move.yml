@@ -1,0 +1,55 @@
+name: Play Chess
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  chess_move:
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.title, 'Chess Move')
+    permissions:
+      contents: write
+      issues: write
+      
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install python-chess
+        run: pip install python-chess
+        
+      - name: Parse Move
+        id: get_move
+        run: |
+          # Extract move from issue body using regex or simple parsing
+          # Assuming body contains "Move: e2e4" or just "e2e4"
+          # Let's be robust and look for the first word that looks like a move
+          BODY="${{ github.event.issue.body }}"
+          MOVE=$(echo "$BODY" | grep -oE '[a-h][1-8][a-h][1-8][qrbn]?' | head -n 1)
+          echo "Player move: $MOVE"
+          echo "move=$MOVE" >> $GITHUB_OUTPUT
+          
+      - name: Run Chess Logic
+        if: steps.get_move.outputs.move != ''
+        run: python chess_game.py ${{ steps.get_move.outputs.move }}
+        
+      - name: Commit Changes
+        if: success()
+        run: |
+          git config --global user.name "Chess Bot"
+          git config --global user.email "bot@chess.com"
+          git add chess_data.json chess_board.svg README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "♟️ Chess Move: ${{ steps.get_move.outputs.move }}" && git push)
+          
+      - name: Close Issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: |
+            Move **${{ steps.get_move.outputs.move }}** accepted! 
+            The board has been updated. Check the README for the bot's counter-move! ♟️
