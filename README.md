@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sagheer+Akram;Student+%7C+Tech+Explorer+%7C+Creator;Photography+%7C+Python+%7C+Chess+%7C+Rubik%E2%80%99s+Cube)](https://git.io/typing-svg)
 
-<img src="/mnt/data/d8d0e72f-ff9f-49c6-b2db-4cfd713dee94.png" width="170" style="border-radius:50%;border:4px solid #9D56FF;box-shadow:0 0 25px #9D56FFAA, 0 0 25px #00E5FFAA;margin-top:10px;">
+<img src="https://github.com/SagheerAkram.png" width="170" style="border-radius:50%;border:4px solid #9D56FF;box-shadow:0 0 25px #9D56FFAA, 0 0 25px #00E5FFAA;margin-top:10px;">
 
 <p>
   <a href="https://www.linkedin.com/in/sagheerakram/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
