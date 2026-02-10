@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍🎓 About Me
+## 👨🎓 About Me
 I'm Sagheer — a student exploring software engineering, automation, photography, and creative projects.  
 I enjoy building things, learning tech at my own pace, and making my GitHub better every day.
 
@@ -74,6 +74,26 @@ Aesthetic photo projects and edits.
 
 ---
 
-## 🌟 Thanks for Visiting
-More updates coming soon!
 
+---
+
+## 👾 Cyber Pet
+<!-- CYBER_PET_START -->
+### 👾 Cyber Pet
+```text
+
+      - _ -
+    (  T.T  )
+     >  ^  <
+    
+```
+**Name**: Git-Zilla
+**Mood**: Hungry
+**Status**: I'm starving... feed me commits! 🔴
+**Streak**: 0 days
+**XP**: 0 / 1000
+<!-- CYBER_PET_END -->
+
+## 🌟 Thanks for Visiting
+
+More updates coming soon!

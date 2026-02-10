@@ -1,0 +1,39 @@
+
+name: Feed Cyber Pet
+
+on:
+  schedule:
+    - cron: '50 23 * * *' # Runs at 23:50 UTC every day
+  workflow_dispatch: # Allows manual run
+
+jobs:
+  feed-pet:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          
+      - name: Run Cyber Pet Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python cyber_pet.py
+        
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "Cyber Pet Bot"
+          git config --global user.email "bot@cyberpet.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Cyber Pet Update" && git push)
