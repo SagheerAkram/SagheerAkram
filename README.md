@@ -16,7 +16,7 @@
 
 ---
 
-## 👨🎓 About Me
+## 👨‍🎓 About Me
 I'm Sagheer — a student exploring software engineering, automation, photography, and creative projects.  
 I enjoy building things, learning tech at my own pace, and making my GitHub better every day.
 
@@ -26,7 +26,7 @@ I enjoy building things, learning tech at my own pace, and making my GitHub bett
 - Learn Python and build small tools  
 - Photography and editing  
 - Break Minecraft using NBT (responsibly 😄)  
-- Play chess & solve Rubik’s Cubes  
+- Play chess & solve Rubik's Cubes  
 - Explore automation and scripting  
 
 ---
@@ -54,67 +54,48 @@ Aesthetic photo projects and edits.
 
 ---
 
-<!-- 
-## 🏆 Trophies
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SagheerAkram&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div> 
--->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SagheerAkram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SagheerAkram&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SagheerAkram&theme=tokyonight" />
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 LeetCode Stats
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SagheerAkram/SagheerAkram/output/github-contribution-grid-snake.svg" />
+  <img src="https://leetcard.jacoblin.cool/SagheerAkram?theme=dark&font=Karma&ext=heatmap" />
 </div>
+
+---
+
+## 🎵 Now Playing
+
+<div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
+  </a>
+</div>
+
+> ⚠️ **Note to self**: Replace `YOUR_SPOTIFY_USER_ID` above and deploy [novatorem](https://github.com/novatorem/novatorem) to get live Spotify updates.
 
 ---
 
 ## 🎯 Fun Facts
 - I love aesthetic designs  
 - I'm learning a bit every day  
-- Chess, Rubik’s Cube, and tech = perfect combo  
+- Chess, Rubik's Cube, and tech = perfect combo  
 - This profile is going to get greener and greener 💚  
 
 ---
 
-## 🌟 Thanks for Visiting
-<!-- CYBER_PET_START -->
-### 👾 Cyber Pet
-```text
-
-      - _ -
-    (  T.T  )
-     >  ^  <
-    
-```
-**Name**: Git-Zilla
-**Mood**: Hungry
-**Status**: I'm starving... feed me commits! 🔴
-**Streak**: 0 days
-**XP**: 0 / 1000
-<!-- CYBER_PET_END -->
-
-
----
-
-## ♟️ Grandmaster's Training (Community Chess)
-Help me train for the Grandmaster title! Make a move against my AI bot.
-
-<div align="center">
-
-<!-- CHESS_STATS_START -->
-**Community Wins**: 0 🏆 | **Bot Wins**: 0 🤖 | **Draws**: 0 🤝
-*Last Move*: Game Start
-<!-- CHESS_STATS_END -->
-
-<img src="https://raw.githubusercontent.com/SagheerAkram/SagheerAkram/main/chess_board.svg" width="400" />
-
-### [👉 Make a Move!](https://SagheerAkram.github.io/SagheerAkram/chess/)
-
-</div>
-
-
-More updates coming soon!
+## 🌟 Thanks for Visiting!
+More updates coming soon.
