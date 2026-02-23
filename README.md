@@ -80,12 +80,10 @@ Aesthetic photo projects and edits.
 ## 🎵 Now Playing
 
 <div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
+  <a href="https://open.spotify.com/user/SagheerAkram">
+    <img src="https://spotify-now-playing-txj2.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" />
   </a>
 </div>
-
-> ⚠️ **Note to self**: Replace `YOUR_SPOTIFY_USER_ID` above and deploy [novatorem](https://github.com/novatorem/novatorem) to get live Spotify updates.
 
 ---
 
